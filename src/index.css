@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f8f9fa;
+}
+input {
+  padding: 8px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+button {
+  padding: 8px;
+  cursor: pointer;
+}
+li {
+  list-style-type: none;
+}
+
+.editfunc {
+  margin: 5px;
+  width: 55px;
+  height: 40px;
+}
+.deletefunc {
+  margin: 5px;
+  width: 55px;
+  height: 40px;
+}
+
+.filterbutton {
+  margin-right: 5px;
+}
+
+.filterbuttons {
+  text-align: center;
+}
